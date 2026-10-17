@@ -1,16 +1,122 @@
-# React + Vite
+# 🏨 Hotel Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually appealing hotel website built using **React.js and Vite**. This project focuses on creating a premium hotel experience through elegant UI design, attractive visuals, and well-organized website sections.
 
-Currently, two official plugins are available:
+### 🔗 Project Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Live Website:** https://sandeepshahu33.github.io/hotelwebsite/
+- **GitHub Repository:** https://github.com/sandeepshahu33/hotelwebsite
+- **Developer Portfolio:** https://sandeepshahu33.github.io/Portfolio/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🏨 Modern hotel website design
+- 🖼️ High-quality images and visual sections
+- 🛏️ Rooms and accommodation showcase
+- 🍽️ Dining and restaurant sections
+- 🌿 Wellness and hotel experiences
+- 🎉 Events and special offers
+- 🎬 Video and image-based visual elements
+- ⚛️ Component-based architecture using React
+- ⚡ Fast development and optimized production builds with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| React.js | Building reusable UI components |
+| JavaScript | Website functionality |
+| HTML5 | Website structure |
+| CSS3 | Styling and layout |
+| Vite | Development server and production build |
+| SVG, Images & Video | Visual assets |
+
+## 🖥️ Design & Responsiveness
+
+The website emphasizes a premium desktop experience, with an elegant layout and visually rich hotel sections.
+
+**Current limitation:** The website is not fully responsive yet. Some layouts may not display optimally on mobile devices and smaller screens.
+
+## 📸 Website Preview
+
+Visit the live website to explore the current design:
+
+👉 **[Open Hotel Website](https://sandeepshahu33.github.io/hotelwebsite/)**
+
+## 🚀 Getting Started
+
+Follow these steps to run the project on your local machine.
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/sandeepshahu33/hotelwebsite.git
+```
+
+**2. Navigate to the project folder**
+
+```bash
+cd hotelwebsite
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view the website.
+
+## 📦 Production Build
+
+To generate an optimized production build:
+
+```bash
+npm run build
+```
+
+The generated files will be available in the `dist` directory.
+
+## 📚 What I Practiced
+
+- Building user interfaces with React components
+- Organizing a frontend project
+- Styling website layouts with CSS
+- Managing images, icons, and video assets
+- Using Vite for development and production builds
+- Deploying a frontend project using GitHub Pages
+
+## 🔮 Future Improvements
+
+- Make the website fully responsive across mobile, tablet, and desktop
+- Improve accessibility and keyboard navigation
+- Optimize large images and video assets for faster loading
+- Enhance cross-browser compatibility
+
+## 👨‍💻 Author
+
+**Sandeep Shahu**
+
+- GitHub: [@sandeepshahu33](https://github.com/sandeepshahu33)
+- Portfolio: [View My Portfolio](https://sandeepshahu33.github.io/Portfolio/)
+
+---
+
+If you find this project interesting, feel free to explore the repository and share your feedback.
+
+**⭐ Thank you for visiting my project!**
